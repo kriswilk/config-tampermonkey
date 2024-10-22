@@ -14,3 +14,5 @@ GM_addStyle('div[class$="main-container__bottom-panel"] div[data-slot^="PLACEMEN
 GM_addStyle('div[data-testid^="x-rx-slot-btf-"]:has(div[id^="placement"]) { display: none; }');
 GM_addStyle('.x-evo-atf-top-river .x-rx-slot { display: none; }');
 GM_addStyle('.stream-slot { display: none; }');
+
+GM_addStyle('.jkaghskjhasd { display: none; }');
