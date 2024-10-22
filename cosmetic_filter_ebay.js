@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Cosmetic Filter - eBay
 // @namespace    http://tampermonkey.net/
-// @version      1
-// @description  Hide similar items, sponsored items, etc. on eBay
+// @version      2
+// @description  
 // @author       Kris Wilk
 // @match        https://www.ebay.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ebay.com
