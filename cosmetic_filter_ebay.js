@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Cosmetic Filter - eBay
 // @namespace    http://tampermonkey.net/
-// @version      6
+// @version      2024-10-22
 // @description  Hide visual distractions such as similar / sponsored items, suggestions, etc.
 // @author       Kris Wilk
 // @match        https://www.ebay.com/*
